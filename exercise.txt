@@ -1,0 +1,11 @@
+The terminal is a cleaner way to find your folder.Instead of checking the desktop
+
+
+
+
+
+
+go straight to the terminal and directly go to the folder your looking folder
+Git is a version control system that allowsdevelopers to track changes in there code
+Github is a web-based hosting service for git respositories
+We use Github it lets you and others work together on projects from anywhere
