@@ -1,11 +1,12 @@
-The terminal is a cleaner way to find your folder.Instead of checking the desktop
+The terminal is a cleaner way to find your folder.Instead of checking the desktop. The terminal is the actual interface of your console that lets you type perform text based commands
+The terminal is a text input and output environment which means your team can see what u working on or they can help you too
+The terminal is a easier way to find or track folders 
+
+
+Git is a version control system that allows-developers to track changes in there code
+Github is a web-based hosting service for git repositories
+The major difference between git and git hub is that while git is a tool that is used to manage to multiple versions of source code edits that are then transferred that files in a git repository
 
 
 
-
-
-
-go straight to the terminal and directly go to the folder your looking folder
-Git is a version control system that allowsdevelopers to track changes in there code
-Github is a web-based hosting service for git respositories
-We use Github it lets you and others work together on projects from anywhere
+We use Github because it assist with managing and keeping history for your project
